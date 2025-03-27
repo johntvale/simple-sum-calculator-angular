@@ -2,6 +2,8 @@
 
 This project is a simple sum calculator that I developed to practive my development skills in Angular 19.
 
+![screenshot](public/screenshot.png)
+
 ## Skills:
 - Modules export and import
 - Components
