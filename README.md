@@ -1,16 +1,16 @@
 # Simple Sum Calculator
 
-This project is a simple sum calculator that I developed to practive my development skills in Angular 19.
+This project is a simple sum calculator that I developed to practice my development skills in Angular 19.
 
 ![screenshot](public/screenshot.png)
 
 ## Skills:
-- Modules export and import
+- Module export and import
 - Components
-- One way and Two way Databind
+- One-way and Two-way Data Binding
 - Events
 - Forms
-- Conditional Render (@if / *ngIf)
+- Conditional Rendering (@if / *ngIf)
 
 ---
 
