@@ -1,6 +1,7 @@
 # Simple Sum Calculator
 
-This project is a simple sum calculator that I developed to practice my development skills in Angular 19.
+This project is a simple sum calculator developed in Angular 19.
+You can type 2 numbers and see the result below.
 
 ![screenshot](public/screenshot.png)
 
