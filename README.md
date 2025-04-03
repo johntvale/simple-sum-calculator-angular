@@ -1,7 +1,10 @@
 # Simple Sum Calculator
 
 This project is a simple sum calculator developed in Angular 19.
+
 You can type 2 numbers and see the result below.
+
+You can access the app by <a href="https://simple-sum-calculator-angular.vercel.app/"><strong>clicking here</strong></a>.
 
 ![screenshot](public/screenshot.png)
 
